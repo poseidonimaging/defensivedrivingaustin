@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Austin Defensive Driving for Speeding Ticket Dismissal</title>
+    <meta name="description" content="Texas Friendly DDS offers classroom defensive driving courses to dismiss a ticket or lower car insurance. Eight locations in Austin and surrounding areas." />
+    <meta name="keywords" content="defensive driving Austin, defensive driving Burnet, defensive driving Georgetown, defensive driving Kyle, defensive driving Oak Hill, defensive driving Pflugerville, defensive driving en Espanol, defensive driving classroom, dismiss a ticket Austin" />
+
+    <!-- Parse -->
+    <script src="//www.parsecdn.com/js/parse-1.4.2.min.js"></script>
+
+    <!-- Stripe Charge Code -->
+    <script src="https://checkout.stripe.com/checkout.js"></script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <link rel="stylesheet" href="/resources/demos/style.css">
+
+  <script>
+  $(function() {
+    $( ".datepicker" ).datepicker();
+  });
+  </script>
+</head>
+
+<body>
+<form class="form-inline" action="/testcharge" method="POST">
+  <div class="form-group">
+    <div class="col-xs-3">
+      <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <input type="hidden" name="location" value="Austin Pizza Garden">
+    <input type="hidden" name="time" value="Saturday 9:30am-3:30pm">
+    <input type="hidden" name="price" value="4000">
+    <script
+      src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+      data-key="pk_test_zsWXe67nkzOTaAidhEWZ1lV9"
+      data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+      data-name="DDS @ Austin Pizza Garden"
+      data-description="Saturday 9:30am-3:30pm"
+      data-amount="4000">
+    </script>
+  </div>
+</form>
+
+<form class="form-inline" action="/testcharge" method="POST">
+  <div class="form-group">
+    <div class="col-xs-3">
+      <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+    </div>
+  </div>
+
+  <div class="form-group">
+    <input type="hidden" name="location" value="Austin Pizza Garden">
+    <input type="hidden" name="time" value="Saturday 9:30am-3:30pm">
+    <input type="hidden" name="price" value="4000">
+    <script
+      src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+      data-key="pk_test_zsWXe67nkzOTaAidhEWZ1lV9"
+      data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+      data-name="DDS @ Austin Pizza Garden"
+      data-description="Saturday 9:30am-3:30pm"
+      data-amount="4000">
+    </script>
+  </div>
+</form>
+
+<div class="container">
+    <form class="form-inline">
+        <div class="row">
+            <div class="form-group col-xs-6">
+                <label class="sr-only" for="exampleInputAmount">Amount (in dollars)</label>
+                <div class="input-group">
+                    <div class="input-group-addon">$</div>
+                    <input type="text" class="form-control" id="exampleInputAmount" placeholder="Amount">
+                    <div class="input-group-addon">.00</div>
+                </div>
+            </div>
+            <div class="form-group col-xs-6">
+                <button type="submit" class="btn btn-primary btn-sm-block">Transfer cash</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+</body>

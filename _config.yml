@@ -1,0 +1,18 @@
+# Setup
+title:        Texas Friendly Defensive Driving
+tagline:      Austin Defensive Driving for Speeding Ticket Dismissal
+baseurl:      ""
+paginate:     1
+permalink:    :title
+
+# About/contact
+author:
+  name:       Texas Friendly Defensive Driving
+  url:        http://texasfriendlydds.com 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

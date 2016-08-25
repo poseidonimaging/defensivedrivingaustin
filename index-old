@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Austin Defensive Driving for Speeding Ticket Dismissal</title>
+    <meta name="description" content="Texas Friendly DDS offers classroom defensive driving courses to dismiss a ticket or lower car insurance. Eight locations in Austin and surrounding areas." />
+    <meta name="keywords" content="defensive driving Austin, defensive driving Burnet, defensive driving Georgetown, defensive driving Kyle, defensive driving Oak Hill, defensive driving Pflugerville, defensive driving en Espanol, defensive driving classroom, dismiss a ticket Austin" />
+
+    <!-- Parse -->
+    <script src="//www.parsecdn.com/js/parse-1.4.2.min.js"></script>
+
+    <!-- Stripe Charge Code -->
+    <script src="https://checkout.stripe.com/checkout.js"></script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Datepicker -->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <link rel="stylesheet" href="/resources/demos/style.css">
+
+    <script>
+    $(function() {
+    $( ".datepicker" ).datepicker();
+    });
+    </script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Begin Inspectlet Embed Code -->
+    <script type="text/javascript" id="inspectletjs">
+    window.__insp = window.__insp || [];
+    __insp.push(['wid', 2001522899]);
+    (function() {
+    function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+    if (window.attachEvent) window.attachEvent('onload', __ldinsp);
+    else window.addEventListener('load', __ldinsp, false);
+    })();
+    </script>
+    <!-- End Inspectlet Embed Code -->
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Texas Friendly DDS</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#classes">Classes</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#faqs">FAQs</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#employment">Employment</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contactus">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">Texas Friendly</div>
+                <div class="intro-heading"><h1>Defensive Driving School</h1></div>
+                <a href="#classes" class="page-scroll btn btn-xl">Classes</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Classes Section -->
+    <section id="classes" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h2 class="section-heading text-center">Classroom</h2>
+                    <p>Get Defensive Driving out of the way in a day with our eight convenient locations. <b>Reserve your spot today to ensure your space in class.</b>  Insurance discount students get $5 off.</p>
+                    <h3>Austin</h3>
+                    <div class="list-group">
+                      <div class="list-group-item">
+                        <h4 class="list-group-item-heading">IHOP North</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">13201 Ranch Road 620</span><br />
+                                    <span itemprop="addressLocality">Austin</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78750</span><br />
+                                </div>
+                                <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                                    <span itemprop="ratingValue">4.6</span> stars - based on <span itemprop="reviewCount">24</span> reviews
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br />
+
+                                <meta itemprop="openingHours" content="Thursdays 3:30pm - 9:30pm"><b>Thursdays 3:30pm - 9:30pm</b><br />
+                            </div>
+                        
+                            <form class="form-inline" action="/charge" method="POST">
+                              <div class="form-group">
+                                <div class="col-xs-3">
+                                  <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                </div>
+                              </div>  
+                              
+                              <div class="form-group">  
+                                  <input type="hidden" name="location" value="IHOP North">
+                                  <input type="hidden" name="time" value="Thursday 3:30pm-9:30pm">
+                                  <input type="hidden" name="price" value="4000">
+                                  <script
+                                    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                    data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                    data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                    data-name="DDS @ IHOP North"
+                                    data-description="Thursday 3:30pm-9:30pm"
+                                    data-amount="4000">
+                                  </script>
+                              </div>
+                            </form>
+                        </p>
+                      </div>
+
+                      <div class="list-group-item">
+                        <h4 class="list-group-item-heading">Denny's Central</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">1601 N. IH 35</span><br />
+                                     <span itemprop="addressLocality">Austin</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78702</span><br />
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br />
+                                <meta itemprop="openingHours" content="Thursdays 9:30am - 3:30pm"><b>2nd and 4th Thursdays 9:30am - 3:30pm</b><br /> 
+                                    <form class="form-inline" action="/charge" method="POST">
+                                        <div class="form-group">
+                                            <div class="col-xs-3">
+                                            <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                              <input type="hidden" name="location" value="Denny's Central">
+                                              <input type="hidden" name="time" value="Thursday 9:30am-3:30pm">
+                                              <input type="hidden" name="price" value="4000">
+                                              <script
+                                                src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                                data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                                data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                                data-name="DDS @ Denny's Central"
+                                                data-description="2nd and 4th Thursdays 9:30am-3:30pm"
+                                                data-amount="4000">
+                                              </script>
+                                        </div>
+                                    </form>
+                                <br />
+                                <meta itemprop="openingHours" content="Saturdays 2pm - 8pm"><b>Saturdays 2pm - 8pm</b><br />
+                                    <form class="form-inline" action="/charge" method="POST">
+                                        <div class="form-group">
+                                            <div class="col-xs-3">
+                                              <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group">
+                                            <input type="hidden" name="location" value="Denny's Central">
+                                            <input type="hidden" name="time" value="Saturday 2pm-8pm">
+                                            <input type="hidden" name="price" value="4000">
+                                              <script
+                                                src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                                data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                                data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                                data-name="DDS @ Denny's Central"
+                                                data-description="Saturday 2pm-8pm"
+                                                data-amount="4000">
+                                              </script>
+                                        </div>
+                                    </form>
+                                </p>
+                            </div>
+
+                      </div>
+
+                      <div class="list-group-item">
+                        <h4 class="list-group-item-heading">IHOP South</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">8801 S. IH 35</span><br />
+                                     <span itemprop="addressLocality">Austin</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78744</span><br />
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br />
+
+                                <meta itemprop="openingHours" content="2nd and 4th Tuesdays of the month 3:30pm - 9:30pm"><b>2nd and 4th Tuesdays of the month 3:30pm - 9:30pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="IHOP South">
+                                      <input type="hidden" name="time" value="Saturday 2pm-8pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ IHOP South"
+                                        data-description="Tuesday 3:30pm-9:30pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+                                </p>
+                            </div>
+                      </div>
+                    </div>
+                      
+
+                    <h3>Burnet</h3>
+                    <div class="list-group">
+                        <div class="list-group-item">
+                        <h4 class="list-group-item-heading">Crazy Gals Café</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">414 Buchanan Drive (Hwy 29)</span><br />
+                                     <span itemprop="addressLocality">Burnet</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78611</span><br />
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br />
+                                <meta itemprop="openingHours" content="2nd and 4th Saturdays of the month 9:30pm - 3:30pm"><b>2nd and 4th Saturdays of the month 9:30am - 3:30pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="Crazy Gals Cafe">
+                                      <input type="hidden" name="time" value="Saturday 9:30am-3:30pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ Crazy Gals Cafe"
+                                        data-description="Saturday 9:30am-3:30pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+                            </div>
+                        </p>
+                        </div>
+                    </div>
+
+
+                    <h3>Georgetown</h3>
+                    <div class="list-group">
+                        <div class="list-group-item">
+                        <h4 class="list-group-item-heading">IHOP</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">750 S Interstate 35</span><br />
+                                     <span itemprop="addressLocality">Georgetown</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78928</span><br />
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br/>
+                                <meta itemprop="openingHours" content="2nd and 4th Mondays of the month 3:30pm - 9:30pm"><b>2nd and 4th Mondays of the month 3:30pm - 9:30pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="IHOP Georgetown">
+                                      <input type="hidden" name="time" value="Monday 3:30pm-9:30pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ IHOP Georgetown"
+                                        data-description="Monday 3:30pm-9:30pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+
+                            </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <h3>Kyle</h3>
+                    <div class="list-group">
+                        <div class="list-group-item">
+                        <h4 class="list-group-item-heading">IHOP</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">5401 Kyle Center Drive</span><br />
+                                     <span itemprop="addressLocality">Kyle</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78640</span><br />
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br />
+
+                                <meta itemprop="openingHours" content="1st and 3rd Tuesdays of the month 3:30pm - 9:30pm"><b>1st and 3rd Tuesdays of the month 3:30pm - 9:30pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="IHOP Kyle">
+                                      <input type="hidden" name="time" value="Tuesday 3:30pm-9:30pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ IHOP Kyle"
+                                        data-description="Tuesday 3:30pm-9:30pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--<h3>Marble Falls</h3>
+                    <div class="list-group">
+                        <div class="list-group-item">
+                        <h4 class="list-group-item-heading">Margarita's Mexican Restaurant</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">1205 FM 1431</span><br />
+                                     <span itemprop="addressLocality">Marble Falls</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78654</span><br />
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br/>
+                                <meta itemprop="openingHours" content="1st and 3rd Saturdays of the month 9:00am - 3:00pm"><b>1st and 3rd Saturdays of the month 9:00am - 3:00pm</b><br />
+                                <form action="/charge" method="POST">
+                                  <script
+                                    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                    data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                    data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                    data-name="DDS @ Margarita's Mexican"
+                                    data-description="Saturday 9:00am-3:00pm"
+                                    data-amount="4000">
+                                  </script>
+                                </form>
+                            </div>
+                        </p>
+                        </div>
+                    </div>-->
+
+                    <h3>Oak Hill</h3>
+                    <div class="list-group">
+                        <div class="list-group-item">
+                        <h4 class="list-group-item-heading">Austin Pizza Garden</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">6266 Hwy. 290 W</span><br />
+                                     <span itemprop="addressLocality">Austin</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78735</span><br />
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br />
+                                <meta itemprop="openingHours" content="Saturdays 9:30am to 3:30pm"><b>Saturdays 9:30am to 3:30pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="Austin Pizza Garden">
+                                      <input type="hidden" name="time" value="Saturday 9:30am-3:30pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ Austin Pizza Garden"
+                                        data-description="Saturday 9:30am-3:30pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+                                <br />
+                                <meta itemprop="openingHours" content="Wednesdays 9:30am to 3:30pm"><b>Wednesdays 9:30am to 3:30pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="Austin Pizza Garden">
+                                      <input type="hidden" name="time" value="Wednesday 9:30am-3:30pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ Austin Pizza Garden"
+                                        data-description="Wednesday 9:30am-3:30pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+                            </div>
+                        </p>
+                        </div>
+                    </div>
+
+                    <h3>Pflugerville</h3>
+                    <div class="list-group">
+                        <div class="list-group-item">
+                        <h4 class="list-group-item-heading">Springhill Restaurant</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">2505 W. Pecan St.</span><br />
+                                     <span itemprop="addressLocality">Pflugerville</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78660</span><br />
+                                </div>
+                                <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                                    <span itemprop="ratingValue">4.8</span> stars - based on <span itemprop="reviewCount">42</span> reviews
+                                </div>
+                                Free meal w/ <span itemprop="priceRange">$40 tuition</span><br /><br />
+                                <meta itemprop="openingHours" content="Saturdays 9:30am to 3:30pm"><b>Saturdays 9:30am to 3:30pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Class Date">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="Springhill">
+                                      <input type="hidden" name="time" value="Saturday 9:30am-3:30pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ Springhill"
+                                        data-description="Saturday 9:30am-3:30pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+                            </div>
+                        </p>
+                        </div>
+                    </div>
+                    
+                    <h3>Espanol</h3>
+                    <div class="list-group">
+                        <div class="list-group-item">
+                        <p>Regístrese hoy para nuestra clase.<br />
+                        Los estudiantes deben traer identificación con foto (Licencia de Manejar) y los papeles de la corte (si applicable).</p>
+                        <h4 class="list-group-item-heading">Mr Gatti's</h4>
+                        <p class="list-group-item-text">
+                            <div itemscope itemtype="http://schema.org/LocalBusiness">
+                                <span itemprop="name">Texas Friendly Defensive Driving</span><br />
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <span itemprop="streetAddress">1555 E. HWY 71</span><br />
+                                     <span itemprop="addressLocality">Austin</span> <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78742</span><br /><br />
+                                </div>
+
+                                <b>CUANDO:</b> En Sabado.  Puede llegar sin previo aviso, pero conviene hablar primero para asegurarse de que no hayan cambios.<br /><br />
+                                <b>HORARIO:</b> 9:00am a 3:00pm - Es importante llegar a las 8:45 AM para completar los formularios requeridos por el gobierno.  Por ley estatal, los estudiantes tienen que llegar puntualmente a la clase y estar presente las seis horas de clase.<br /><br />              
+                                <b>COSTO:</b> <span itemprop="priceRange">$40 por persona</span> (incluye la sena).<br /><br />
+                               
+                                <meta itemprop="openingHours" content="Sabados 9am a 3pm"><b>Sabados 9am to 3pm</b><br />
+                                <form class="form-inline" action="/charge" method="POST">
+                                    <div class="form-group">
+                                        <div class="col-xs-3">
+                                          <input class="form-control datepicker" type="text" name="date" placeholder="Fecha de la Clase">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                      <input type="hidden" name="location" value="Mr Gatti's">
+                                      <input type="hidden" name="time" value="Sabado 9am-3pm">
+                                      <input type="hidden" name="price" value="4000">
+                                      <script
+                                        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+                                        data-key="pk_live_uX7wxbXe3hdODVD9DeU6s1Ww"
+                                        data-image="http://ecx.images-amazon.com/images/I/41VefBIL4JL._SY300_.jpg"
+                                        data-name="DDS @ Mr Gatti's"
+                                        data-description="Sabado 9am-3pm"
+                                        data-amount="4000">
+                                      </script>
+                                    </div>
+                                </form>
+                            </div>
+                        </p>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="col-lg-6">
+                    <h2 class="section-heading text-center">Online</h2>
+                    <h3 class="section-subheading text-muted">Take Defensive Driving from home on your schedule. We've partnered with Gently's Driving to provide you this service. <b>Click on the image below to sign up</b></h3>
+                    <center><a href="http://www.gentlysdriving.com/affiliates/jrox.php?id=1025_1"
+   onclick="ga('send','event','Gently Referral,'gentlysdriving.com')" target="_blank"><img src="http://i.imgur.com/0Exi7ue.png" class="img-responsive" alt=""></a></center>
+
+                    <h3>Contact Us by Phone or Email</h3>
+                    <h4>(512) 873-9207</h4>
+                    <h4>texasfriendlydds@gmail.com</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQs Section -->
+    <section id="faqs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">FAQs</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">                
+                    <h4 class="subheading">Am I eligible for defensive driving?</h4>
+                        <p>The State of Texas allows everyone to take a defensive driving course a least once every 12 months in order to get a ticket dismissed.  You may be eligible to take a defensive driving course more than once a year through a program called deferred adjudication, but you must get approval from the court first.</p><br />
+
+                    <h4 class="subheading">Is this course State Approved?</h4>
+                        <p>Yes.  Texas Friendly Defensive Driving School is approved by the Texas Education Agency and all our instructors are licensed by TEA.</p><br />
+
+                    <h4 class="subheading">What is the cost of the class?</h4>
+                        <p>Each class costs $40, payable by cash, check, money order or pay on line with a credit card.  This includes a meal and drink.</p><br />
+
+                    <h4 class="subheading">How long is the course?</h4>
+                        <p>State law mandates that all defensive driving courses be at least six hours in length in order to get a ticket dismissed.  You will be signing a statement on your certificate of completion stating that you have completed the entire six hour course.</p><br />
+
+                    <h4 class="subheading">What time should I arrive?</h4>
+                        <p>It would be wise to arrive 15 minutes before the start of the class to complete paperwork.  Please note that if you arrive past the start of the class, you may not be allowed to stay.  It is a state law that everyone be in class for the full six hours.</p><br />
+
+                    <h4 class="subheading">Is there a test?</h4>
+                        <p>Yes.  The test has 20 questions which are all multiple choice.  The minimum score is 70 to pass.  If you should fail the test, your instructor will work with you after the class is dismissed to assist you in achieving a passing score.</p><br />
+
+                    <h4 class="subheading">Is the course all lecture?</h4>
+                        <p>No.  Various videos are shown dealing with the different topics of discussion and we encourage student participation including questions and comments.</p><br />
+
+                    <h4 class="subheading">Will I get my certificate of completion after the class?</h4>
+                        <p>No.  State law mandates that the certificate of completion must be mailed to you.  You should receive your certificate within 10 days of the class, in many cases, sooner.</p><br />
+
+                    <h4 class="subheading">What if I need my certificate sooner than 10 days?</h4>
+                        <p>For a fee of $30 payable in cash, check or money order only (we do not take credit cards for this service), your certificate can be expedited via Federal Express.  Certificates will be delivered within two business days of the class.  Note: Federal Express does not deliver on weekends or holidays.</p><br />
+
+                    <h4 class="subheading">If I did not get a ticket, can I take the course for auto insurance discount?</h4>
+                        <p>Yes, but it does depend on your insurance carrier.  All insurance companies regulated by the Texas Insurance Agency are required by law to offer up to a 10% discount on your auto insurance for three years.  Be sure to check with your insurance agent to see if discounts apply before taking the course.</p><br />
+
+                    <h4 class="subheading">What if I take it for auto insurance discount and then get a ticket later?</h4>
+                        <p>No problem, but you would need to repeat the course.</p><br />
+
+                    <h4 class="subheading">What is the difference between an online course and a live class?</h4>
+                        <p>A great deal.  Live classes allow for interaction between instructors and students to share ideas and thoughts, ask questions and develop a better connection with the material plus a great meal.  On the other hand, who wants to stare at a computer for six hours?  The length of the class is the same; however, we do offer options on our website.</p><br />
+
+                    <h4 class="subheading">Are there breaks during the class?</h4>
+                        <p>Yes.  There are two 15-minute breaks and one 30-minute break for the meal.</p><br />
+
+                    <h4 class="subheading">What should I bring to the class?</h4>
+                        <p>Payment for the class (unless you paid online with a credit card), your court information, driver license and perhaps a sweater as some classrooms are cooler than others.</p><br />
+
+                    <h4 class="subheading">Are all locations handicap accessible?</h4>
+                        <p>All locations except Austin Pizza Garden are accessible.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Employment Section -->
+    <section id="employment" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Employment</h2>
+                    <!--<h3 class="section-subheading text-muted">Texas Friendly DDS Instructors have taught hundreds of classes and served thousands of students.</h3> -->
+                </div>
+            </div>
+        <!--    <div class="row">
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Kay Garland</h4>
+                        <p class="text-muted">164 classes taught</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Larry Parker</h4>
+                        <p class="text-muted">364 classes taught</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Diana Pertersen</h4>
+                        <p class="text-muted">285 classes taught</p>
+                    </div>
+                </div>
+            </div> -->
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <p class="large text-muted">Are you interested in becoming a driving safety instructor? Texas Friendly Defensive Driving School is always on the lookout for individuals who would like to teach a defensive driving course. For a minimal investment, you can become a Texas state licensed driving safety instructor.</p> 
+
+                    <p class="large text-muted">Training consists of a three day course, Friday through Sunday from 8:00 a.m. to 5:00 p.m. where you will be thoroughly trained in the curriculum. Afterwards you will be scheduled for two student teaching classes and have a licensed instructor with you. Then you start teaching. It's that easy!</p>  
+
+                    <p class="large text-muted">Are you bilingual? We have a high demand to increase our classes offered in Spanish. Please give our office a call for more information. Don't pass up an opportunity to share your talents and skills and making a tremendous contribution back into the community.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Employment Section -->
+    <section id="contactus">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact Us</h2>
+                    
+                </div>
+            </div>
+        
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-4">
+                    <h3>Texas Friendly DDS<br />
+                    PO Box 487 <br />
+                    Hutto, TX 78634<br /> <br />
+
+                    (512) 873-9207<br />
+                    texasfriendlydds@gmail.com</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; Texas Friendly DDS 2015</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <!--<li><a href="#"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
+                        </li> -->
+                        
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <div itemscope itemtype="http://schema.org/LocalBusiness" align="center">
+                    <span itemprop="name">Texas Friendly Defensive Driving School</span>
+                        <div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+                            <i><span itemprop="ratingValue">4.7</span> stars - based on <span itemprop="reviewCount">78</span> reviews</i>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-63498700-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+</body>
+
+</html>
